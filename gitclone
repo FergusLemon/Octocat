@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Answer: git clone is a command that you run that allows you to copy a project from github onto your local device so that you have a working directory of the main branch of the project and can then look at the code and edit it.
